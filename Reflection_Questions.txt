@@ -1,0 +1,7 @@
+# Reflection Questions
+
+1. **Explain how forensic analysis and incident response is very much like law enforcement trying to solve a criminal case.**
+   - Similar to police detectives, forensic analysts must collect evidence, validate incidents, and analyze them to identify criminals or malicious actors.
+
+2. **What is Redline?**
+   - RedLine Stealer is a malware that collects sensitive data such as passwords, credit card details, and other personal information from browsers and infected systems.
