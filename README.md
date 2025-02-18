@@ -77,7 +77,7 @@ ASYNCRAT detected.
 - **Malicious Activities Detected:** 3 tactics, 7 techniques, and 245 events are related to this malicious activity
 - **Tactics:** Credential access, Discovery, and Collection
 - **Techniques:** Credential from Password Stores, Unsecured Credentials, Software Discovery, and Email Collection
-## Second Malicious Activity: gh2st.exe
+## Second Malicious Activity: file1.exe
 
 ### Process Tree:
 - **file1.exe**
