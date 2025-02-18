@@ -51,6 +51,7 @@ This project is for educational purposes only.
 ASYNCRAT detected.
 
 ## ATT&CK Matrix:
+- **Malicious Activities Detected:** 4 tactics, 5 techniques, and 16 events are related to this malicious activity
 - **Tactics:** Execution, Persistence, Privilege Escalation, Discovery
 - **Techniques:** Boot or Logon Autostart Execution
 
@@ -72,6 +73,27 @@ ASYNCRAT detected.
 - Connects to CnC server
 - REDLINE detected
 
+## ATT&CK Matrix:
+- **Malicious Activities Detected:** 3 tactics, 7 techniques, and 245 events are related to this malicious activity
+- **Tactics:** Credential access, Discovery, and Collection
+- **Techniques:** Credential from Password Stores, Unsecured Credentials, Software Discovery, and Email Collection
+## Second Malicious Activity: gh2st.exe
+
+### Process Tree:
+- **file1.exe**
+
+### SHA256 Value: 
+F7B1639B6C4CA677BA279B945A94C5F6D67E6C4C89FD39CD8BE882A8A7CDFCAA
+
+### Identified Dangers:
+- Steals credentials from Web Browsers
+- Connects to CnC server
+- REDLINE detected
+
+## ATT&CK Matrix:
+- **Malicious Activities Detected:** 3 tactics, 7 techniques, and 1525 events are related to this malicious activity
+- **Tactics:** Credential access, Discovery, and Collection
+    
 # Reflection Questions
 
 1. **Explain how forensic analysis and incident response is very much like law enforcement trying to solve a criminal case.**
