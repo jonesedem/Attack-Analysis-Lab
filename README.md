@@ -14,7 +14,7 @@ This project focuses on investigating malicious activity using the ANY.RUN onlin
 3. **Part 3:** Examine additional malicious activities and their associated dangers.
 
 ## How to Use:
-Each part is organized into subfolders and markdown files, detailing each phase of the lab analysis.
+Each part is separated detailing each phase of the lab analysis.
 
 ## License:
 This project is for educational purposes only.
