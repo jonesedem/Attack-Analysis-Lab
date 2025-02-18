@@ -82,4 +82,9 @@ ASYNCRAT detected.
    
 - RedLine Stealer is a malware that collects sensitive data such as passwords, credit card details, and other personal information from browsers and infected systems.
 
+### Resources
+<div>
+    <img src="https://img.shields.io/badge/-ANY.RUN_Sandbox-00599C?&style=for-the-badge&logo=AnyRun&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mitre_ATT&CK_Matrix-242424?&style=for-the-badge&logo=MITRE&logoColor=white" />
+</div>
 
