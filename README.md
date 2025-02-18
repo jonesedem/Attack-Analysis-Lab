@@ -20,7 +20,7 @@ Each part is separated detailing each phase of the lab analysis.
 This project is for educational purposes only.
 
 # Part 1: Investigate IOCs
-## The table below contains the list of the IOCs (hash values) and the analysis results (whether they are malicious, suspicious, or benign).
+### The table below contains the list of the IOCs (hash values) and the analysis results (whether they are malicious, suspicious, or benign).
 
 ## Hash Analysis Results:
 
@@ -34,7 +34,7 @@ This project is for educational purposes only.
 | b497845beb135740e6caed03a2020036        | Suspicious                      | winlogon.exe        |
 
 # Part 2: Investigate the Malicious Activity
-## This part includes the details of the investigation process for the malicious activity using the ANY.RUN sandbox. It includes the process tree, reports, and relevant findings. 
+### This part includes the details of the investigation process for the malicious activity using the ANY.RUN sandbox. It includes the process tree, reports, and relevant findings. 
 
 ## First Malicious Activity: wireframe.exe
 
@@ -54,10 +54,9 @@ ASYNCRAT detected.
 - **Tactics:** Execution, Persistence, Privilege Escalation, Discovery
 - **Techniques:** Boot or Logon Autostart Execution
 
-Example content:
 # Part 3: Investigate the More Malicious Activity
 
-## This part contains a detailed report of the second malicious hash analysis, including process trees, report details, and ATT&CK matrix analysis.
+### This part contains a detailed report of the second malicious hash analysis, including process trees, report details, and ATT&CK matrix analysis.
 
 ## Second Malicious Activity: gh2st.exe
 
@@ -77,7 +76,7 @@ Example content:
 
 1. **Explain how forensic analysis and incident response is very much like law enforcement trying to solve a criminal case.**
 
-   - Similar to police detectives, forensic analysts must collect evidence, validate incidents, and analyze them to identify criminals or malicious actors.
+- Similar to police detectives, forensic analysts must collect evidence, validate incidents, and analyze them to identify criminals or malicious actors.
 
 2. **What is Redline?**
    
