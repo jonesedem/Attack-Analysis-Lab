@@ -36,7 +36,7 @@ This project is for educational purposes only.
 # Part 2: Investigate the Malicious Activity
 ### This part includes the details of the investigation process for the malicious activity using the ANY.RUN sandbox. It includes the process tree, reports, and relevant findings. 
 
-## First Malicious Activity: wireframe.exe
+### First Malicious Activity: wireframe.exe
 
 ### Process Tree:
 - **wireframe.exe**
@@ -59,7 +59,7 @@ ASYNCRAT detected.
 
 ### This part contains a detailed report of the second malicious hash analysis, including process trees, report details, and ATT&CK matrix analysis.
 
-## Second Malicious Activity: gh2st.exe
+### Second Malicious Activity: gh2st.exe
 
 ### Process Tree:
 - **gh2st.exe**
